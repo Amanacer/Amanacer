@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **opi application**
+- 🔭 I’m currently working on **Api application**
 
-- 👯 I’m looking to collaborate on **bluestock team**
+- 👯 I’m currently  collaborating on **bluestock team**
 
 - 👨‍💻 All of my projects are available at [https://aman-portfolio-omega.vercel.app/](https://aman-portfolio-omega.vercel.app/)
 
