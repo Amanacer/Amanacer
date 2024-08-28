@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aman-portfolio-omega.vercel.app/](https://aman-portfolio-omega.vercel.app/)
 
-- 💬 Ask me about **java,react,node.js,express,mongoDB,postgreSQL,AI tools**
+- 💬 Ask me about **java,oops,react,node.js,express,mongoDB,postgreSQL,AI tools**
 
 - 📫 How to reach me **singha0391@gmail.com**
 
