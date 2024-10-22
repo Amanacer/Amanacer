@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <div class="center-text">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Problem+solver.+Tech+enthusiast.Passionate+Full+Stack+Developer." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Problem+solver.+Tech+enthusiast. Passionate+Full+Stack+Developer." alt="Typing SVG" />
   </a>
 </div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
