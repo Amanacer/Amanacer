@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Problem+solver.+Tech+enthusiast." alt="Typing SVG" />
   </a>
 </div>
-<h3 align="right">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanacer&label=Profile%20views&color=0e75b6&style=flat" alt="amanacer" /> </p>
