@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanacer&" alt="amanacer" /></p>
 
-<a><img src="https://github.com/Amanacer" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
+<a><img src="https://github.com/Amanacer" alt="Hackerearth" data-canonical-src="https://github.com/Amanacer" style="max-width:100%;"></a>
