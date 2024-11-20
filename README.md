@@ -37,7 +37,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanacer&show_icons=true&locale=en" alt="amanacer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanacer&" alt="amanacer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanacer&show_icons=true&locale=en&layout=compact" alt="amanacer" /></p>
+
 
 <a href="https://github.com/Amanacer" rel="nofollow">
     <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;">
