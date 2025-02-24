@@ -34,10 +34,10 @@
   Past_Experiences:
     - role: "Software Engineer Intern", "Itjobsx.com"
     - role: "software Engineer Intern", "VTS Infotech pvt limited"
-    - achievement: "Winter Tech Fellowship", "Palantir"
-    - achievement: "Software engineering Fellowship", "Headstarters AI"
+    - achievement: "ML Trainning", "Amazon"
+    - achievement: "Student Ambassador", "Microsoft"
     - achievement: "AI/ML Scholar'24", "AWS"
-    - achievement: "Top 5 percent", "Adobe Gensolve Hackathon"
+    - achievement: "Completed Chanllenge AI", "Microsoft"
   Coding achievements:
     - "Leetcode (2127) @Knight"
     - "GFG (2071) 5 Star"
