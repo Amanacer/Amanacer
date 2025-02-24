@@ -24,6 +24,31 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dOBF3MaHVEbmkXi5tLkYlYUuVnHG3iZ2/view?usp=drivesdk](https://drive.google.com/file/d/1dOBF3MaHVEbmkXi5tLkYlYUuVnHG3iZ2/view?usp=drivesdk)
 
 - ⚡ Fun fact  **I am funny 😁 **
+  ## ABOUT ME !! 
+
+```yaml
+  name: "Aman Singh"
+  Education:
+    degree: "BTech in Computer Science Engineering"
+    university: "IMS ENGINEERING COLLAGE"
+  Past_Experiences:
+    - role: "Software Engineer Intern", "Itjobsx.com"
+    - role: "software Engineer Intern", "VTS Infotech pvt limited"
+    - achievement: "Winter Tech Fellowship", "Palantir"
+    - achievement: "Software engineering Fellowship", "Headstarters AI"
+    - achievement: "AI/ML Scholar'24", "AWS"
+    - achievement: "Top 5 percent", "Adobe Gensolve Hackathon"
+  Coding achievements:
+    - "Leetcode (2127) @Knight"
+    - "GFG (2071) 5 Star"
+    - "Codechef (1990) 4 Star"
+    - "Codeforce (1335) Pupil"
+    - "Atcoder (656) Brown 7 Kyu"
+  Specialization: "Frontend & Algorithm Development"
+  Currently_learning:
+  - "Typescript"
+  - "Three.js"
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aman-singh-119499225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aman-singh-119499225" height="30" width="40" /></a>
