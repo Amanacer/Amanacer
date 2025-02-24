@@ -40,11 +40,9 @@
     - achievement: "Completed Chanllenge AI", "Microsoft"
   Coding achievements:
     - "Leetcode (2127) @Knight"
-    - "GFG (2071) 5 Star"
-    - "Codechef (1990) 4 Star"
+    - "Codechef (1876) 4 Star"
     - "Codeforce (1335) Pupil"
-    - "Atcoder (656) Brown 7 Kyu"
-  Specialization: "Frontend & Algorithm Development"
+  Specialization: "Frontend,backend & Algorithm Development"
   Currently_learning:
   - "Typescript"
   - "Three.js"
