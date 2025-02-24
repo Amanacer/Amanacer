@@ -99,6 +99,7 @@
 <a href="https://github.com/Amanacer" rel="nofollow">
     <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;">
 </a>
+<img alt="Amanacer's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Amanacer&theme=react-dark" />
 <div align="center">
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
