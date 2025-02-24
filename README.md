@@ -34,6 +34,8 @@
   Past_Experiences:
     - role: "Software Engineer Intern", "Itjobsx.com"
     - role: "software Engineer Intern", "VTS Infotech pvt limited"
+    - role: "Software Engineer Intern", "Bluestock Fintech"
+    - role: "Java Development  Intern",  "Code Clause"
     - achievement: "ML Trainning", "Amazon"
     - achievement: "Student Ambassador", "Microsoft"
     - achievement: "AI/ML Scholar'24", "AWS"
