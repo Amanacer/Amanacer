@@ -39,7 +39,8 @@
     - achievement: "AI/ML Scholar'24", "AWS"
     - achievement: "Completed Chanllenge AI", "Microsoft"
   Coding achievements:
-    - "Leetcode (2127) @Knight"
+    - "Tackled 800+ DSA problems on LEETCODE enhancing ability to write efficient code. "
+    - "Secured AIR 177 in Code Chef Weekly Contest 167, ranking in the top 1% among 24,000 participants."
     - "Codechef (1876) 4 Star"
     - "Codeforce (1335) Pupil"
   Specialization: "Frontend,backend & Algorithm Development"
