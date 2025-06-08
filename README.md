@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Api application**
 
-- 👯 I’m currently  collaborating on **bluestock team**
+- 👯 I’m currently  contributing in **SpringBoot Project**
 
 - 👨‍💻 All of my projects are available at [https://aman-portfolio-omega.vercel.app/](https://aman-portfolio-omega.vercel.app/)
 
