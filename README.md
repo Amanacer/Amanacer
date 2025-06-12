@@ -53,7 +53,7 @@
 
 ```
 <h3 align="left">Coding Profiles Stats:</h3>
-<p> <img align="left" src="https://leetcard.jacoblin.cool/amanakash" alt="aman singh" width="370px"> </p>
+<p> <img align="center" src="https://leetcard.jacoblin.cool/amanakash" alt="aman singh" width="370px"> </p>
 
 
 
