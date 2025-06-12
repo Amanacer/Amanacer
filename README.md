@@ -11,8 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanacer&theme=algolia&column=5&rank=-?" alt="amanacer" /></a> </p>
-
 
 - 🔭 I’m currently working on **Api application**
 
@@ -27,6 +25,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dOBF3MaHVEbmkXi5tLkYlYUuVnHG3iZ2/view?usp=drivesdk](https://drive.google.com/file/d/1dOBF3MaHVEbmkXi5tLkYlYUuVnHG3iZ2/view?usp=drivesdk)
 
 - ⚡ Fun fact  **I am funny 😁 **
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanacer&theme=algolia&column=5&rank=-?" alt="amanacer" /></a> </p>
+
   ## ABOUT ME !! 
 
 ```yaml
