@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact  **I am funny 😁 **
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanacer&theme=algolia&column=6&rank=-?" alt="amanacer" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanacer&theme=algolia&column=7&rank=-?" alt="amanacer" /></a> </p>
 
   ## ABOUT ME !! 
 
