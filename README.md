@@ -51,7 +51,7 @@
   - "Typescript"
   - "Three.js"
 ```
-<p> <img align="left" src="https://leetcode.com/u/amanakash/" alt="aman singh" width="370px"> </p>
+<p> <img align="left" src="https://leetcard.jacoblin.cool/amanakash" alt="aman singh" width="370px"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
