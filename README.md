@@ -1,4 +1,4 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+![MasterHead](https://chatgpt.com/s/m_6871fd3f21308191abcb059742c09207)
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=5000&pause=700&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Aman+Singh;Aspiring+Software+Engineer;%26+a+AI/ML+enthusiast+" alt="Typing SVG"/>  </h1>
 
